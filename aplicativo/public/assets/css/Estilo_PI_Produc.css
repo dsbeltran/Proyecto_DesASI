@@ -1,0 +1,139 @@
+.contenedornav
+{
+    background-color: white;
+    margin: 10px;
+    display: flex;
+    padding: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.g
+{
+    display: block;
+    background-color: white;
+    width: 20%;
+    padding: 5px;
+    margin: 5px;
+    height: 260px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.flex-container > div {
+
+    width: 190px;
+    margin: 10px;
+    text-align: center;
+  }
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    padding: 5px;
+    margin: 5px;
+  }
+  
+.g1
+{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+ul.navs  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  li.navs a.navs {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li.navs {
+    text-align: center;
+  }
+  
+  li:last-child.navs {
+    border-bottom: none;
+  }
+  
+  li.navs a.actives {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: rgb(14, 179, 255);
+    color: white;
+  }
+  
+  li.navs a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+
+.h
+{
+    border: 1px solid #555;
+    width: auto;
+    height: 216px;
+}
+.fotos{
+    margin: auto;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-bottom: 5px;
+    margin-left: auto;
+    width: 125px;
+}
+.boton
+{
+    display: flex;
+    padding: 5px;
+    margin: 2px;
+}
+.op
+{
+    
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.button {
+    margin: 10px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  .button2 
+  {
+      background-color: rgb(14, 179, 255);
+      height: 88%;
+  } 
+  .ops
+  {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  .c
+  {
+    text-align: center;
+    padding: 20px;
+  }

@@ -1,0 +1,71 @@
+  .caja{
+    padding: 5px;
+    
+  }
+  .caja .contenedor {
+      background-color: white;
+      margin: 10px;
+      display: flex;
+      /*border-style: solid;*/
+      padding: 5px;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      /*border-bottom: none;*/
+      
+      
+  }
+  .caja .H{
+    display: block;
+      background-color: white;
+      width: 100%;
+      padding: 5px;
+      margin: 5px;
+    text-align: center;
+    display: block;
+      font-size: 2em;
+      margin-block-start: 0.67em;
+      margin-block-end: 0.67em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+      
+  }
+  
+  .caja .c {
+      display: block;
+      background-color: white;
+      /*border-style: solid;*/
+      width: 100%;
+      padding: 5px;
+      margin: 5px;
+      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .caja .f {
+    display: block;
+    background-color: white;
+    /*border-style: solid;*/
+    width: 100%;
+    padding: 20px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+  .caja .d {
+      display: block;
+      background-color: white;
+      /*border-style: solid;*/
+      width: 100%;
+      padding: 5px;
+      margin: 5px;
+      text-align: center;
+  }
+  .foto{
+    margin-left: 35%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    float: left;
+    width: 125px;
+  }
+  
+  .clear {
+      clear: both;
+  }

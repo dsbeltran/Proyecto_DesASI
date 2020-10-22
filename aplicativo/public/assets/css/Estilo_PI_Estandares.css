@@ -1,0 +1,117 @@
+.cd
+{
+    width: 100%;
+    display: block;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.cd1
+{
+    width: 100%;
+    display: block;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.d
+{
+    width: 98%;
+    display: block;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.e
+{
+    width: 98%;
+    display: flex;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.e1
+{
+    width: 98%;
+    display: flex;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.e2
+{
+    width: 98%;
+    display: block;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.e3 
+{
+    width: 98%;
+    display: flex;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.e4
+{
+    width: 98%;
+    display: flex;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.e5
+{
+    width: 25%;
+    display: flex;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+p1
+{
+    padding: 10px;
+}
+ul.navs {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: rgb(14, 179, 255);
+  }
+  .ss
+{
+    padding: 20px;
+}
